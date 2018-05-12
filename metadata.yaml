@@ -1,0 +1,42 @@
+_repo: The-Pearl-of-the-AndesA-Tale-of-Love-and-Adventure_43838
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aimard, Gustave
+    alias: Gloux, Olivier
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '5146'
+    url: http://www.gutenberg.org/2009/agents/5146
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Gustave_Aimard
+    - http://fr.wikipedia.org/wiki/Gustave_Aimard
+  editor:
+    agent_name: St. John, Percy B. (Percy Bolingbroke)
+    aliases:
+    - Saint John, Percy B. (Percy Bolingbroke)
+    - John, Percy B. St. (Percy Bolingbroke St.)
+    - Boone, Henry L.
+    birthdate: 1821
+    deathdate: 1889
+    gutenberg_agent_id: '42430'
+    url: http://www.gutenberg.org/2009/agents/42430
+description: ''
+gutenberg_issued: '2013-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43838'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Love stories'
+- !lcsh 'Adventure stories'
+- !lcsh 'Andes Region -- Fiction'
+title: 'The Pearl of the Andes: A Tale of Love and Adventure'
+url: http://www.gutenberg.org/ebooks/43838
