@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '42430'
     url: http://www.gutenberg.org/2009/agents/42430
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43838#The-Pearl-of-the-AndesA-Tale-of-Love-and-Adventure
 gutenberg_issued: '2013-09-28'
 gutenberg_type: Text
 identifiers:
